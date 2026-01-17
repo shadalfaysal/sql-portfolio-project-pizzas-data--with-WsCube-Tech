@@ -39,7 +39,8 @@ using SQL and extract meaningful insights from the data.
 
 ## 🛠️ Tools
 -	SQL Server
--	Visual Studio Code & GitHub 
+-	Visual Studio Code & GitHub
+-	Draw.io
 
 ## 📌 Key Learnings
 -	Learned how to break complex analytical problems into logical layers
