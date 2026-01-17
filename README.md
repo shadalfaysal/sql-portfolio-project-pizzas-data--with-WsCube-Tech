@@ -52,5 +52,5 @@ using SQL and extract meaningful insights from the data.
 This Project is licensed under the [MIT License].(LICENSE). You are free to use, Modify, and share this project with proper attribution.
 
 ## About Me
-Hi there! I'm **Shad Al Faysal**, and studing an BBA department of Management 4th Year. Now i'm learning **SQL**
+Hi there! I'm **Shad Al Faysal**, and studing an BBA department of Management 4th Year. Now i'm learning **SQL**. Grateful to @Ayushi Jain and @WsCube Tech for the valuable guidance and learning support during this SQL project.
 
