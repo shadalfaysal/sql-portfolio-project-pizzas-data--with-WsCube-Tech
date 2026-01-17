@@ -22,10 +22,11 @@ using SQL and extract meaningful insights from the data.
 
 
 ## 🎯 Business Questions Solved
--	Revenue contribution by pizza category
--	Top 3 most ordered pizza types by revenue per category
--	Customer/order behavior analysis
--	Sales performance insights.
+-	List the top 5 most ordered pizza types along with their quantities.
+-	Join relevant tables to find the category-wise distribution of pizzas.
+-	Analyze the cumulative revenue generated over time.
+-	Determine the top 3 most ordered pizza types based on revenue.
+-	Calculate the percentage contribution of each pizza type to total revenue.
 
 
 ## 🧠 SQL Concepts Used 
